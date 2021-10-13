@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/XtdSdyp/servic1.png",
+        "price": 220,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa esse ipsum tempora minus explicabo velit error reprehenderit magnam ex? Natus.",
+        "name": "REPLACE TIRE",
+        "email": "moranmoreno@kegular.com",
+        "phone": "+1 (932) 487-2774"
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/s10ZkRP/service2.png",
+        "price": 360,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa esse ipsum tempora minus explicabo velit error reprehenderit magnam ex? Natus.",
+        "name": " ENGINE WASH",
+        "email": "ettamoreno@kegular.com",
+        "phone": "+1 (822) 433-3828"
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/FbgJqhh/service3.png",
+        "price": 360,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa esse ipsum tempora minus explicabo velit error reprehenderit magnam ex? Natus.",
+        "name": "WHEEL ALIGNMENT",
+        "email": "underwoodmoreno@kegular.com",
+        "phone": "+1 (853) 484-3577"
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/xDQLBTy/service4.png",
+        "price": 260,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa esse ipsum tempora minus explicabo velit error reprehenderit magnam ex? Natus.",
+        "name": "OIL CHANGING",
+        "email": "freemanmoreno@kegular.com",
+        "phone": "+1 (985) 457-3051"
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/1mrzG3H/service5.png",
+        "price": 250,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa esse ipsum tempora minus explicabo velit error reprehenderit magnam ex? Natus.",
+        "name": " MODIFY BODY ",
+        "email": "baileymoreno@kegular.com",
+        "phone": "+1 (959) 548-2274"
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co/s10ZkRP/service2.png",
+        "price": 200,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa esse ipsum tempora minus explicabo velit error reprehenderit magnam ex? Natus.",
+        "name": "ENGINE DIAGNOSTIC",
+        "email": "moodymoreno@kegular.com",
+        "phone": "+1 (820) 404-3480"
+    }
+]

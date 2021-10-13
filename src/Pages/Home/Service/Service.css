@@ -1,0 +1,8 @@
+.service-card{
+    background-color: rgba(0, 114, 123, 0.248);
+    border-radius: 10px;
+}
+.service-img{
+    border-radius: 15px;
+    height: 300px;
+}
