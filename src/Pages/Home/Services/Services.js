@@ -9,7 +9,7 @@ const Services = () => {
     const [services, setServices] = useState();
 
     useEffect(() => {
-        fetch(`./services.json`)
+        fetch(`https://floating-tor-16332.herokuapp.com/services`)
             .then(res => res.json())
             .then(data => setServices(data));
     }, []);
